@@ -739,7 +739,7 @@ def isyeri_api():
         }), 500
 
 # 12. Ana HTML Sayfası için endpoint
-@app.route('/Api')
+@app.route('/')
 def api_dashboard():
     return '''
     <!DOCTYPE html>
