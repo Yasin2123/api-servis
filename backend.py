@@ -1106,7 +1106,7 @@ def api_dashboard():
 
     <div class="container">
         <div class="header">
-            <h1>CROOS CHECKER</h1>
+            <h1>FFNYXFF APİ SERVİS</h1>
             <p class="subtitle">Profesyonel Sorgu API Servisleri</p>
         </div>
 
